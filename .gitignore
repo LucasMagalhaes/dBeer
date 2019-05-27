@@ -1,0 +1,11 @@
+.idea
+*.iml
+.gradle
+build
+logs
+out
+.DS_Store
+*.mmdb.gz
+*\~
+build/
+target/
